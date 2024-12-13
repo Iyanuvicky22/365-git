@@ -11,7 +11,11 @@ MEAT
 Sausages
 
 DAIRY
-
+Yogurt
+Butter
+Custard
+Milk
+Ice Cream
 
 HOUSEHOLD
 
