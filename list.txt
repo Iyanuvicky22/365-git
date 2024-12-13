@@ -9,6 +9,11 @@ Watermelon
 
 MEAT
 Sausages
+Beef
+Goat
+Turkey
+Pigeon
+Quail
 
 DAIRY
 
